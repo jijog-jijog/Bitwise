@@ -4,7 +4,6 @@ public class num1 {
         int n =  11;
         bitcount(n);
 
-
     }
 
     static int bitcount(int n){

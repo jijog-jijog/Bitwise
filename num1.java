@@ -1,6 +1,5 @@
 public class num1 {
     public static void main(String[] args) {
-        
         int n =  11;
         bitcount(n);
     }

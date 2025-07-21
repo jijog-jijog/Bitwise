@@ -9,6 +9,5 @@ public class num1 {
         }
         System.out.print(n%2);
         return 0;
-    }
-    
+    } 
 }

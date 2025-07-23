@@ -13,7 +13,6 @@ public class num1 {
             bitcount(n/2);
         }
         
-
         System.out.print(n%2);
         return 0;
     } 

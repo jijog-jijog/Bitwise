@@ -6,7 +6,6 @@ public class num1 {
         bitcount(n);
     }
     static int bitcount(int n){
-
         if (n > 1) {
             bitcount(n/2);
         }
